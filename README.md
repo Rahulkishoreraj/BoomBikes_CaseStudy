@@ -1,4 +1,4 @@
-# BoomBikes_Assignment
+# BoomBikes_CaseStudy
 > Assignment to apply knowledge of Linear regression.
 
 
